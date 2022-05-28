@@ -17,8 +17,8 @@ startmessage = [
             text="How to use me❓", url="https://telegra.ph/Instructions-to-Use-This-Bot-05-07"),
     ],
     [
-        InlineKeyboardButton(text="Developer 👨‍💻", url="t.me/kunaldiwan"),
-        InlineKeyboardButton(text="Channel 📢", url="t.me/DevelopedBots"
+        InlineKeyboardButton(text="Developer 👨‍💻", url="t.me/Kawser218696"),
+        InlineKeyboardButton(text="Channel 📢", url="t.me/Kawser218696_Update"
 
         ),
     ],
