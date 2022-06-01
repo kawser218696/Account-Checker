@@ -3,7 +3,7 @@ from telegram import Bot
 import os
 
 logging.basicConfig(
-    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    format="%(asctime)s - %(name)s - %(levelname)s - %(bot by @Kawser218696)s",
     level=logging.INFO
 )
 logger = logging.getLogger(__name__)
